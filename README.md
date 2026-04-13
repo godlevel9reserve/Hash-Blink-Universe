@@ -1,41 +1,46 @@
-# GODLEVEL9 RESERVE AUTHORITY
+# Hash Blink Universe
 
-**Founded by:** President Hash Blink (Dagoseh–Sherman Lineage)  
-**Vault-Class Entity Type:** Private Reserve Bank, Token Issuer, Asset Vault  
-**Headquarters:** Chicago, Liberia, Liechtenstein, Dubai, Singapore
+## What this is
+The **Hash Blink Universe** is my connected creative system spanning music, books, visual worlds, game concepts, and digital infrastructure. I treat every release as a **module**, not an isolated drop.
 
-## 🌍 Description
+## The three pillars
+### 1) Environment
+Real places and lived textures become recurring symbols:
+- **Pipeline Road**
+- **Wien Town**
+- **Monrovia**
+- **Grand Cape Mount County (Diamala)**
 
-The GODLEVEL9 Reserve Authority is a sovereign, multi-jurisdictional reserve bank issuing physical and digital bearer assets. Its core vaults are backed by:
+### 2) Expression
+The output layer:
+- Albums / series / EPs
+- Writing / narrative projects
+- Visual identity systems
+- Scripts, scenes, world notes
 
-- Physical Gold, Silver, and Diamonds
-- Bitcoin (BTC), Ethereum (ETH), and USDT
-- Crude Oil, Lithium, Rare Earth Metals
-- Carbon Credits, Hydropower, and Sovereign Land
-- 1000 Intellectual Properties (IP) from Hash Blink
+### 3) Structure
+The framework that keeps it unified:
+- **GODLEVEL9 Reserve Authority**
+- **Vault System**
+- **Bonescript**
 
-## 💎 Products
+## Canon rules (how I keep it consistent)
+1. **One universe, many formats** — a book can echo an album; a game can echo a verse.
+2. **Locations are symbols** — a place is never “just a place.”
+3. **Systems repeat** — vocabulary, motifs, and structures recur on purpose.
+4. **No filler** — every page must carry meaning or utility.
+5. **Upgradeable lore** — everything can evolve, but changes must be logged.
 
-- **GODLEVEL9 Token (GL9):** 50T Max Supply
-- **Vault Notes:** Digital + Physical denominations (up to 900T)
-- **NFT Scrolls:** Ultra-Luxury Vault Editions with prophetic metadata
-- **Vault Ledger:** Google Sheets + GitBook Rich List Integration
+## Timeline model (phases)
+- **Phase I — Formation:** origin environments, early identity, first drafts
+- **Phase II — Output:** releases begin; recurring motifs appear
+- **Phase III — Structure:** Vault logic + long-term frameworks
+- **Phase IV — Expansion:** cross-medium builds (books/games/visual systems)
 
-## 🛡️ Governance
-
-- **Council of Writhe**: 7-seat vault governance council
-- **Vault Seal Protocol**: Rules for issuance, redemptions & burn logic
-- **Annex A**: Reserve Address Rich List (Google Sheet)
-- **Annex B**: Physical Asset Reserve Mapping (Upload folder)
-
-## 🔗 External Listings
-
-- GitBook: [vault.gitbook.io/godlevel9](https://vault.gitbook.io/godlevel9)
-- CoinMarketCap: Coming Soon
-- CoinGecko: Coming Soon
-- NFTify: [godlevel9drop.nftify.network](godlevel9drop.nftify.network)
-- Reserve Audit: In progress (PwC + Community DAO Watch)
-
----
-
-**Built by the modern-day Mansa Musa — Vault-Class. Asset-Backed. Eternal.**
+## How I add new pages
+When I add a new topic, I keep this format:
+- **Definition**
+- **Why it matters**
+- **Key terms**
+- **Connections to other pages**
+- **Canon notes**
